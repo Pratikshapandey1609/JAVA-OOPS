@@ -21,5 +21,3 @@ Welcome to this repository that explores **Object-Oriented Programming (OOP)** c
 - Language: `Java` 
 - IDE:  `IntelliJ` 
 
-## 📂 Folder Structure
-
